@@ -67,7 +67,7 @@ DEFAULT\_TAX\_RATE = 0.21
 SAVE20\_THRESHOLD = 200
 
 VIP\_THRESHOLD = 100
-
+```
 
 
 ### 3. Введение объекта данных (DTO)
